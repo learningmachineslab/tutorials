@@ -1,0 +1,79 @@
+﻿Video Order,Title,Video Length (s),video_type,n_views,n_students,number_of_clicker_Qs,avg_time_watched,std_time_watched
+1,1-a The Big Picture,360.76,lecture video,444,284,0,71.7219698144722,41.0974808857698
+2,1-b Installing VPython,111.13,lab video,726,308,4,86.1986480643741,30.222986525944
+3,1-c Installing Tracker,59.15,lab video,762,293,3,89.2857354996625,23.6048645916807
+4,1-d Thinking about Physics Thinking,379.11,lecture video,401,261,0,78.7440556297622,35.4825512717856
+5,1-e Dimensions and Units,384.71,lecture video,347,249,1,87.2562278097956,28.8007328887874
+6,1-f Vectors in 1D,533.94,lecture video,423,237,1,88.2575125268722,24.6692171832975
+7,1-g Coordinate Systems,598.16,lecture video,343,218,3,88.0773239132169,26.5973523425002
+8,1-h Vector No Nos,96.01,lecture video,275,189,0,93.4541466821856,22.3117605245298
+9,1-i Vectors in 2 & 3D,587.39,lecture video,416,196,2,86.1246243083062,28.8473636110431
+10,1-j Describing Motion,573.91,lecture video,272,165,0,69.7959626696601,39.7899508130079
+11,1-k Newton 2nd Law,421.07,lecture video,625,188,0,72.8857100667807,39.004804430601
+12,1-l Video Analysis of Constant Velocity Motion (how to use tracker),745.82,lab video,801,182,3,93.8520658868617,18.3543340555905
+13,2-a Predicting the Future,612.12,lecture video,279,152,0,78.7293204617557,34.7320443226588
+14,2-b Newton's 2nd Law & the Momentum Principle,170.67,lecture video,279,160,0,83.3923203958828,33.3541824181389
+15,2-c Creating a Computer Model of Constant Velocity Motion,1052.81,lab video,617,150,5,87.424287314011,24.9435388899041
+16,2-d Comparing Observations & Model Predictions for Constant Velocity,697.18,lab video,408,138,1,85.9129126578495,26.4949256584321
+17,2-e Using a Spreadsheet,229.01,lab video,409,137,0,89.6155326758242,25.8669053627061
+18,2-f Recording Observations on Video,309.7,lab video,221,130,0,55.8598867640003,40.4857761132144
+19,2-g Creating a Good Video Lab Report,371.4,lab video,331,137,1,85.5942276725825,28.4484309805463
+20,2-h Guided Video Critique,627.51,lab video,197,115,0,66.8006027678849,39.2732516579249
+21,2-i Predicting the (Motion) Future with Newton’s 2nd Law: Nonzero Net Force,281.37,lecture video,213,123,0,77.1129665104079,35.190481620239
+22,2-j Modeling Forces: Gravity and Drag,550.88,lecture video,210,117,1,83.6292261380187,28.9624793529061
+23,2-k The Spring Force,364.63,lecture video,215,122,1,87.178718799647,27.7607296353094
+24,3-a Where's the Calculus?,370.24,lecture video,173,110,0,78.7596349702146,33.8172147744642
+25,3-b Where's the Acceleration,293.01,lecture video,148,107,0,85.4485081795178,30.5059606512187
+26,3-c Estimating Brief Interactions,963.97,lecture video,208,108,1,63.9866095695725,36.1406311086303
+27,"3-d Projectile Motion (How computer can be your friend when solving physics problems) ",753.6,lecture video,178,97,0,63.3165118988538,41.3567092229642
+28,4-a Predicting the (Motion) Future: A Falling Object,1107.34,lab video,763,146,4,87.3756664145275,21.6546385410981
+29,"4-b Fundamental Interactions: Gravity ",695.06,lecture video,205,114,3,68.6301785401796,38.7340230256588
+30,4-c Predicting the (Motion) Future with Fundamental Interactions,863.53,lecture video,187,105,2,48.1501064992277,42.2485992311761
+31,4-d Reciprocity (Newton's 3rd Law),377.21,lecture video,129,96,1,71.8259597553177,36.8656633600081
+32,5-a Fundamental Interactions: Electric,492.7,lecture video,126,93,0,80.9535422270123,32.4823260713547
+33,5-b Contact Forces: Tension,362.89,lecture video,163,103,0,75.4189341350005,34.6550216758039
+34,5-c Contact Forces: Normal and Friction,449.36,lecture video,137,95,1,80.9879363970892,32.1958064710314
+35,5-d Determining Forces from Motion Observations using Newtn's 2nd Law,487.82,lecture video,139,95,0,72.5128619762275,38.0957903699276
+36,5-e Finding Forces from Motion Observations: Static and Dynamic Equilibrium,715.28,lecture video,139,93,2,72.6959160482128,35.589647707151
+37,6-a Forces from Motion: Changes parallel and perpendicular to motion,460.96,lecture video,202,115,0,76.8546291891585,32.994642536083
+38,6-b Forces from Motion: Parallel and Perpendicular motion changes described by dp/dt,693.67,lecture video,221,111,1,86.0920073476169,20.8349416024288
+39,6-c Forces from Motion: Relating dp/dt to Fnet,752.09,lecture video,197,107,1,79.5914955920336,29.8345329885378
+40,6-d Forces from Motion: Examples with nonzero net force,620.11,lecture video,166,93,2,81.6171864745891,30.709988995906
+41,6-e Forces from Motion: Mystery motion data to forces,943.14,lab video,388,125,6,78.3704009063862,31.0203852116137
+42,6-f Black Hole Lab Introduction,221.57,lab video,404,136,2,90.908705819547,16.7059156874793
+43,7-a The Energy Principle,403.45,lecture video,191,115,1,79.6598036282678,32.4667096043068
+44,7-b Work,488.32,lecture video,175,100,2,85.864646410865,27.2263077423802
+45,7-c The Energy Principle: Two examples with work,517.45,lecture video,156,90,0,68.8440771990109,37.1916343526832
+46,7-d Work by Non-constant Forces,421,lecture video,131,83,2,78.9620508097158,32.4216628667922
+47,7-e Potential Energy,749.64,lecture video,131,81,3,70.6174071989125,35.210527764736
+48,8-a Gravitational Potential Energy,863.41,lecture video,179,88,0,73.8220728861773,35.0450249709527
+49,8-b Potential Energy: Energy Graphs,640.98,lecture video,157,81,3,81.0510382920363,31.9809458056234
+50,8-c Spring Potential Energy,522.09,lecture video,162,80,2,75.4140819795914,35.9254322889815
+51,8-d Electric Potential Energy,577.28,lecture video,123,70,3,75.8535642582579,35.696403571795
+52,"8-e Spring-Mass System: An analytic solution ",503.48,lecture video,150,84,1,68.7683240579273,37.8754915835467
+53,8-f Rope Physics I,793.05,lab video,648,145,4,88.2713154221953,18.2614505058615
+54,8-g Rope Physics II,525.93,lab video,428,129,1,79.8808506660413,28.767590099494
+55,10-a Power,182.67,lecture video,134,91,1,84.1583461376563,32.7635451836064
+56,10-b The Potential Energy Gradient and Path Independence,358.33,lecture video,123,82,1,81.4041306206043,33.118089123334
+57,10-c Dissipation,231,lecture video,100,71,0,81.7472536193927,33.2049748048566
+58,10-d Thermal Energy,402.5,lecture video,125,80,1,81.1022001601652,27.0625788809302
+59,10-e Thermal Energy Transfer,433.36,lecture video,126,78,1,76.4443960048721,34.5087804882569
+60,11-a Multiparticle Systems: Center of Mass,319.09,lecture video,139,83,1,76.820324351508,35.2067746141102
+61,"11-b Multiparticle Systems: KE: Translation, Rotation and Vibration",349.66,lecture video,144,81,0,82.5291005641041,32.6603824434906
+62,11-c Rotational Energy I: Moment of Inertia,334.5,lecture video,158,85,1,83.0724789245092,27.2129941427944
+63,11-d Rotational Energy II: Two Real Examples,463.9,lecture video,148,76,0,74.4179226817791,33.7295220632467
+64,11-e Point Particle and Multiparticle (Real) Models I,382.04,lecture video,107,72,0,70.6683834252269,40.2626658161406
+65,12-a Point Particle Models and Multiple Particle Models: First Example,268,lecture video,144,77,0,84.4215440533732,30.7272470661737
+66,12-b Point Particle Models and Multiple Particle Models: Second Examples,383,lecture video,114,73,0,80.6129360892925,32.5524988134317
+67,12-c Modeling Friction,473,lecture video,102,69,0,69.1287885461365,40.5895892444555
+68,12-d Conservation of Momentum,388,lecture video,81,65,0,70.3740492744537,39.5797799900453
+69,13-a Collisions in 1D: Energy and Momentum,519,lecture video,86,62,0,75.8293692334667,37.2087316063178
+70,13-b Collisions > 1D: Energy and Momentum,333,lecture video,84,62,0,76.2438675168667,36.1885166943376
+71,13-c The Angular Momentum Principle: An Introduction,271,lecture video,99,69,0,82.45232814743,34.992231402721
+72,13-d Torque,596,lecture video,127,77,1,70.9427393406111,35.9665655958526
+73,13-e Angular Momentum,648,lecture video,127,69,1,75.4287572780405,32.1990314109058
+74,"13-f Cross Products with Vectors in Component Form ",455,lecture video,91,57,0,62.2029749153819,36.5105310749195
+75,15-a Angular Momentum Principle,704,lecture video,148,67,3,78.6975026856997,30.8531577892167
+76,15-b Multiparticle Angular Momentum Principle,593,lecture video,86,54,0,74.1101114086461,34.8790405261361
+77,15-c Angular Momentum: Rigid Body Example,460,lecture video,67,44,1,79.8585267725788,32.0648213889882
+78,15-d Multiparticle Angular Momentum Principle: An Example,614,lecture video,84,44,0,53.8362279178336,42.9778783189383
