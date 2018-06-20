@@ -1,4 +1,4 @@
-# quantitative-analysis-group
+# Tutorials in machine learning for physics education research
 This is a repo for the quantitative analysis group, it contains notebooks demonstrating various methods of research and visualization
 
 # Rules for submitting
