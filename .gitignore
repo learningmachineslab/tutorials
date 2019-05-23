@@ -1,0 +1,6 @@
+# File types to ignore
+
+.DS_Store
+
+# Folders to ignore
+exploring-data/tutorial/
