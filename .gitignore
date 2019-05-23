@@ -4,5 +4,5 @@
 
 
 # Folders to ignore
-src/.ipynb_checkpoints
+exploring-data/src/.ipynb_checkpoints/
 exploring-data/tutorialenv/
