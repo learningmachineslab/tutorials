@@ -1,8 +1,10 @@
 # File types to ignore
+.ipynb_checkpoints
 
 .DS_Store
 
 
 # Folders to ignore
-exploring-data/src/.ipynb_checkpoints/
-exploring-data/tutorialenv/
+/tutorialenv/
+*/.ipynb_checkpoints/*
+
