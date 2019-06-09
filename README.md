@@ -21,4 +21,4 @@ These notebooks are meant to serve as an introduction to these topics in the con
 4. If your Python notebook has library requirements please update the environment.yml file to reflect the new requirements.
 5. For new notebooks please create a branch with a relevant title and commit and then merge with the master. This will avoid conflicts for people working on different topics.
 
-If you have questions people are always available on Slack!
+If you have questions people are always available on Slack! You can find more contact information [on the group webpage](https://learningmachineslab.github.io/)
