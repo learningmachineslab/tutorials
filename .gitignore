@@ -1,10 +1,10 @@
 # File types to ignore
 .ipynb_checkpoints
-
+connections.py
 .DS_Store
 
 
 # Folders to ignore
 /tutorialenv/
 */.ipynb_checkpoints/*
-
+__pycache__
