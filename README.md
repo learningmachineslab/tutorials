@@ -27,3 +27,11 @@ Please do not feel you cannot look at the solutions and must figure it out on yo
 5. For new notebooks please create a branch with a relevant title and commit and then merge with the master. This will avoid conflicts for people working on different topics.
 
 If you have questions people are always available on Slack!
+
+# Using this code in your projects
+
+We are happy if you use this code in your projects! If you use any code found here, please attribute it to us with the following citation:
+
+`John M. Aiken, Robert Solli, Rachel Henderson, & Marcos D. Caballero. (2019, July 17). learningmachineslab/tutorials: Tutorials for ML in PER (Version v1.0). Zenodo. http://doi.org/10.5281/zenodo.3339401`
+
+Thanks!
