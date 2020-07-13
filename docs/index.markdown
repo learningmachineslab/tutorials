@@ -4,10 +4,10 @@
 
 layout: home
 permalink: index.html
+title: Tutorial Info
+
 ---
 
-
-## Tutorials in machine learning for physics education research
 This is a repo has a number of tutorials that are meant to help PER researchers get started with machine learning projects. It assumes that you have an existing understanding of python syntax. Learning goals for these tutorials are:
 
 1. Have an understanding of different ways to explore data using the `pandas` and `matplotlib` libraries
