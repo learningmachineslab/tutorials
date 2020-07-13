@@ -145,6 +145,7 @@ We will also evaluate different models to try to understand how robust our findi
 
 [Google JamBoard](https://jamboard.google.com/d/18xCxRs7PLuf1Zbb0HClImXql8RHqVunD56YzBQ-BKbE/edit?usp=sharing)
 
+[Regression Methods in Python](https://scikit-learn.org/stable/supervised_learning.html#supervised-learning)
 
 </section>
 
