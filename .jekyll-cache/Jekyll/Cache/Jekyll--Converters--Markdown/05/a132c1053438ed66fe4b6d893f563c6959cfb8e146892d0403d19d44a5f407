@@ -1,0 +1,42 @@
+I"7<h1 id="tutorials-in-machine-learning-for-physics-education-research">Tutorials in machine learning for physics education research</h1>
+<p>This is a repo has a number of tutorials that are meant to help PER researchers get started with machine learning projects. It assumes that you have an existing understanding of python syntax. Learning goals for these tutorials are:</p>
+
+<ol>
+  <li>Have an understanding of different ways to explore data using the <code class="language-plaintext highlighter-rouge">pandas</code> and <code class="language-plaintext highlighter-rouge">matplotlib</code> libraries</li>
+  <li>Become familiar with the <code class="language-plaintext highlighter-rouge">model-&gt;train-&gt;score</code> paradigm of <code class="language-plaintext highlighter-rouge">sklearn</code></li>
+  <li>Have an understanding of the code implementations of <code class="language-plaintext highlighter-rouge">sklearn</code> for different machine learning tasks (namely regression, classification, and clustering)</li>
+  <li>Have an understanding of how to connect a sql database to a <code class="language-plaintext highlighter-rouge">pandas</code> dataframe</li>
+  <li>Have an understanding of the <code class="language-plaintext highlighter-rouge">train_test_split</code> paradigm of <code class="language-plaintext highlighter-rouge">sklearn</code></li>
+  <li>Have an understanding of regression model evaluation</li>
+  <li>Have an understanding of classification model evaluation</li>
+</ol>
+
+<p>This collection of tutorials should not be considered exhaustive of machine learning topics, nor is it meant to produce a deep conceptual understanding of how the algorithms work. Instead it is meant for onboarding researchers unfamiliar with the basics of conducting applied machine learning research in PER via workshops or self learning.</p>
+
+<p>The format of all of the notebooks is:</p>
+
+<p><code class="language-plaintext highlighter-rouge">exercise</code>
+<code class="language-plaintext highlighter-rouge">exercise_with_solutions</code></p>
+
+<p>Please do not feel you cannot look at the solutions and must figure it out on yourself. It is totally acceptable to look at the solutions to figure your way out. But it should not be copy and paste code, the goal is to develop understanding of what each step is doing.</p>
+
+<h1 id="rules-for-submitting">Rules for submitting</h1>
+
+<ol>
+  <li>When committing notebooks please include descriptions of how to use them in the notebooks.</li>
+  <li>R and Python notebooks are accepted. Please use Python 3.x.</li>
+  <li>If writing Python Please follow PEP-8 where possible. More information on <a href="https://www.python.org/dev/peps/pep-0008/">PEP-8 can be found here</a></li>
+  <li>If your Python notebook has library requirements please update the environment.yml file to reflect the new requirements.</li>
+  <li>For new notebooks please create a branch with a relevant title and commit and then merge with the master. This will avoid conflicts for people working on different topics.</li>
+</ol>
+
+<p>If you have questions people are always available on Slack!</p>
+
+<h1 id="using-this-code-in-your-projects">Using this code in your projects</h1>
+
+<p>We are happy if you use this code in your projects! If you use any code found here, please attribute it to us with the following citation:</p>
+
+<p><code class="language-plaintext highlighter-rouge">John M. Aiken, Robert Solli, Rachel Henderson, &amp; Marcos D. Caballero. (2019, July 17). learningmachineslab/tutorials: Tutorials for ML in PER (Version v1.0). Zenodo. http://doi.org/10.5281/zenodo.3339401</code></p>
+
+<p>Thanks!</p>
+:ET
