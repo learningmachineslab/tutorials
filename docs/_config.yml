@@ -23,7 +23,7 @@ email: caballero@pa.msu.edu
 description: >- # this means to ignore newlines until "baseurl:"
   This is a repo has a number of tutorials that are meant to help PER researchers get started with machine learning projects.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://learningmachineslab.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 #github_username:  jekyll
 
