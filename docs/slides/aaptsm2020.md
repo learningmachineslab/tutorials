@@ -34,6 +34,7 @@ transition: slide
 * Institution
 * Role
 * Experience with ML
+* Experience with Python
 
 </section>
 
