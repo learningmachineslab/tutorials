@@ -25,6 +25,18 @@ transition: slide
 
 </section>
 
+
+<section data-markdown>
+
+## Introductions
+
+* Name
+* Institution
+* Role
+* Experience with ML
+
+</section>
+
 <section data-markdown>
 
 ### What do you want to use Machine Learning for?
@@ -125,9 +137,9 @@ We have collected assessment scores from students on a mechanics concept invento
 
 For this tutorial, we will guide you through reading in, plotting, and deciding on research questions.
 
-[Link to Jupyter Notebook](https://github.com/learningmachineslab/tutorials/blob/master/exploring-data/data_exploration_tutorial.ipynb)
-
-[Google JamBoard](https://jamboard.google.com/d/18xCxRs7PLuf1Zbb0HClImXql8RHqVunD56YzBQ-BKbE/edit?usp=sharing)
+* [Link to Jupyter Notebook](https://github.com/learningmachineslab/tutorials/blob/master/exploring-data/data_exploration_tutorial.ipynb)
+* [Link to Data](https://github.com/learningmachineslab/tutorials/raw/master/exploring-data/data/regression_data.csv)
+* [Google JamBoard](https://jamboard.google.com/d/18xCxRs7PLuf1Zbb0HClImXql8RHqVunD56YzBQ-BKbE/edit?usp=sharing)
 
 
 
@@ -141,9 +153,9 @@ With the same assessment scores, we will determine what factors contribute most 
 
 We will also evaluate different models to try to understand how robust our findings are.
 
-[Link to Jupyter Notebook](https://github.com/learningmachineslab/tutorials/blob/master/regression/regression.ipynb)
-
-[Google JamBoard](https://jamboard.google.com/d/18xCxRs7PLuf1Zbb0HClImXql8RHqVunD56YzBQ-BKbE/edit?usp=sharing)
+* [Link to Jupyter Notebook](https://github.com/learningmachineslab/tutorials/blob/master/regression/regression.ipynb)
+* [Link to Data](https://raw.githubusercontent.com/learningmachineslab/tutorials/master/regression/data/regression_data.csv)
+* [Google JamBoard](https://jamboard.google.com/d/18xCxRs7PLuf1Zbb0HClImXql8RHqVunD56YzBQ-BKbE/edit?usp=sharing)
 
 [Regression Methods in Python](https://scikit-learn.org/stable/supervised_learning.html#supervised-learning)
 
